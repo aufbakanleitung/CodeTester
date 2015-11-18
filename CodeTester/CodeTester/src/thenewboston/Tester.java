@@ -12,6 +12,7 @@ public class Tester {
 		tunaObject.eat();
 		tunaObject.done();
 		//hi
+		System.out.println("test21");
 		
 	}
 	public static int average(int...numbers){ //... is elipse, it means you don't know how many arguments your gonna have
